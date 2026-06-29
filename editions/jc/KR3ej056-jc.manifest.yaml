@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3ej056/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej056/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陳氏小兒痘疹方論
+  identifiers:
+    krp: KR3ej056
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej056.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej056_000-jc.yaml, hash: 'sha256:a0b5d4c343e809bc26dce38783c0a8d71a7a243e43fe5e3d7712b07730c82023'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej056_000-jc.markers.yaml, hash: 'sha256:135a46a4aefde080794d377a8f5cc9859e9a7f981c796a7a9dd4c36619e73508'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej056_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 158
+  label: 論痘疹受病之由
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej056_jc_000-d3.h1s1
+    span:
+    - body
+    - 158
+    - 6666
+  label: 論痘疹治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej056_jc_000-d4.h1s1
+    span:
+    - body
+    - 6666
+    - 10304
+  label: 類集痘疹已效名方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej056_jc_000-d5.h1s1
+    span:
+    - body
+    - 10304
+    - 16163
+  label: 附方
+  type: section
+  level: 1
+hash: sha256:a04406227bc9a2cfc2a6bc607137ff48de72d00d404fbc715e125f5d296373ae
